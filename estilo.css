@@ -3,7 +3,7 @@ body {
     margin: 0 auto;
 }
 
-.sender-column {
+p.columna {
     text-align: right;
     font-style: italic;
 }
