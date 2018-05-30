@@ -8,8 +8,7 @@ body {
     font-style: italic;
 }
 
-.fila {
-    text-align: right;
+p.fila {
     font-style: oblique;
 }
 
