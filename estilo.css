@@ -3,9 +3,14 @@ body {
     margin: 0 auto;
 }
 
-.sender-column {
+.columna {
     text-align: right;
     font-style: italic;
+}
+
+.fila {
+    text-align: right;
+    font-style: oblique;
 }
 
 h1 {
