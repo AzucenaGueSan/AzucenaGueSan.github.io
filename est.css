@@ -1,0 +1,35 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.izquierdo {
+    float: left;
+    width: 45%;
+    text-align: left;
+}
+
+.derecho {
+    float: right;
+    width: 45%;
+    text-align: right;
+}
+
+#caja {
+margin-top: 70px;
+width: 80 px;
+height: 200px;
+border-style: solid;
+border-color: black;
+background-color: #cccccc;
+padding: 20px;
+}
+
+#caja2 {
+margin-top: 10px;
+width: 20 px;
+height: 20px;
+border-style: solid;
+border-color: black;
+background-color: #FDFEFE;
+padding: 20px;
+}
