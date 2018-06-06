@@ -2,6 +2,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
 }
+
 .izquierdo {
     float: left;
     width: 45%;
@@ -15,21 +16,21 @@ body {
 }
 
 #caja {
-margin-top: 70px;
-width: 80 px;
-height: 200px;
-border-style: solid;
-border-color: black;
-background-color: #cccccc;
-padding: 20px;
+    margin-top: 70px;
+    width: 60 px;
+    height: 300px;
+    border-style: solid;
+    border-color: black;
+    background-color: #cccccc;
+    padding: 20px;
 }
 
 #caja2 {
-margin-top: 10px;
-width: 20 px;
-height: 20px;
-border-style: solid;
-border-color: black;
-background-color: #FDFEFE;
-padding: 20px;
+    margin-top: 10px;
+    width: 20 px;
+    height: 20px;
+    border-style: solid;
+    border-color: black;
+    background-color: #FDFEFE;
+    padding: 20px;
 }
