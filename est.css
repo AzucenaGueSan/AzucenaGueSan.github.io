@@ -4,7 +4,6 @@ body {
 }
 
 .izquierdo {
-    float: left;
     width: 45%;
     text-align: left;
 }
