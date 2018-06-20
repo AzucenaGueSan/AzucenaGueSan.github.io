@@ -1,0 +1,82 @@
+/* Remove the navbar's default margin-bottom and rounded borders */
+
+body {
+    position: relative;
+}
+
+.w3-tangerine {
+    font-family: "Tangerine", serif;
+    font-
+}
+
+.w3-lobster {
+    font-family: 'Lobster', serif;
+}
+
+.text1 {
+    font-family: 'Amita';
+    font-size: 18px;
+    text-align: center;
+}
+
+.titulos {
+    font-family: 'Bigshot One';
+    font-size: 28px;
+    text-align: left;
+}
+
+.titulo {
+    font-family: 'Caesar Dressing';
+    font-size: 40px;
+}
+
+.text {
+    font-family: 'Farsan';
+    font-size: 22px;
+    text-align: center;
+}
+
+#section1 {
+    padding-top: 50px;
+    height: 500px;
+    color: rgb(63, 126, 5);
+    background-color: rgb(217, 230, 173);
+}
+
+#section2 {
+    padding-top: 50px;
+    height: 500px;
+    color: rgb(63, 126, 5);
+    background-color: rgb(224, 241, 182);
+}
+
+#section3 {
+    padding-top: 60px;
+    height: 600px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(217, 230, 173);
+}
+
+con
+/* Add a gray background color and some padding to the footer */
+
+footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    /* Set width to 100% */
+    margin: auto;
+    min-height: 200px;
+}
+
+
+/* Hide the carousel text when the screen is less than 600 pixels wide */
+
+@media (max-width: 600px) {
+    .carousel-caption {
+        display: none;
+    }
+}
